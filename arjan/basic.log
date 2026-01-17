@@ -1,0 +1,10 @@
+ 2026-01-17 11:24:23 - DEBUG - This is a debug message
+ 2026-01-17 11:24:23 - INFO - This is and info message
+ 2026-01-17 11:24:23 - WARNING - This is warning message
+ 2026-01-17 11:24:23 - ERROR - This is warning message
+ 2026-01-17 11:24:23 - CRITICAL - This is warning message
+ 2026-01-17 11:24:33 - DEBUG - This is a debug message
+ 2026-01-17 11:24:33 - INFO - This is and info message
+ 2026-01-17 11:24:33 - WARNING - This is warning message
+ 2026-01-17 11:24:33 - ERROR - This is warning message
+ 2026-01-17 11:24:33 - CRITICAL - This is warning message
